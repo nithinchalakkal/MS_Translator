@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Tue Oct 18 09:52:46 GST 2016
+2.base=/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/res/resources-debug.ap_
+5.file=/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/speechangel.png
+5.set=ANDROID_RESOURCE
+3.base=/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/res/resources-debug.ap_
+6.file=/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/res/resources-debug.ap_
+7.file=/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.base=/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/res/resources-debug.ap_
+8.file=/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+4.set=ANDROID_RESOURCE
+6.base=/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/res/resources-debug.ap_
+1.file=/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/wallpapper.jpg
+1.set=ANDROID_RESOURCE
+7.base=/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/res/resources-debug.ap_
+2.file=/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/res/resources-debug.ap_/res/drawable/custom_spinner_background.xml
+6.set=ANDROID_RESOURCE
+0.base=/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/res/resources-debug.ap_
+8.base=/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/res/resources-debug.ap_
+3.file=/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/res/resources-debug.ap_
+4.file=/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/res/resources-debug.ap_/res/drawable/buttonshape.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

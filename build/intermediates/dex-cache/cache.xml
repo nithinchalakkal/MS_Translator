@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8cf411a5ea8d29e6672a22f8c1110a10713c7730">
+        <dex dex="/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_63c9203aae9cc2b75e9415f54e151ba3da552161/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/libs/android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1dc1f63cee098b27db60b9a2833fd7ca58f89636">
+        <dex dex="/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_9bb9f0a31c8597bd4a0110570a9245245ce5acb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/libs/microsoft-translator-java-api-0.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2b9686e4d86b1565f3fa7a5060246b40ba96e447">
+        <dex dex="/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/transforms/dex/debug/folders/1000/2/microsoft-translator-java-api-0.6.2_8d85ee88ff26c65d37b3a89fa2e6c111ef21a3d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bd58670c51aa1c646c435f762bc8ade62bd3b6e0">
+        <dex dex="/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a1e7d1777a3867033d65e41eb15f179844b17735/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/libs/json-simple-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/transforms/dex/debug/folders/1000/2/json-simple-1.1_3434737845d5d2e02a990db15b17d5519d9fe292/classes.dex" />
+    </item>
+
+</items>

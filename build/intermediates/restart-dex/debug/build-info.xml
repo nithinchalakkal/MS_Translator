@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="22"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="2030023854735"
+    token="-2240882068292354938"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2320" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="247" />
+    <task
+        name="verifier"
+        duration="12" />
+
+    <artifact
+        location="/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/outputs/apk/MS_Translator-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="2030023854735"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/outputs/apk/MS_Translator-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

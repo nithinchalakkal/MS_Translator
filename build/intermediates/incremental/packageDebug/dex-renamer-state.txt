@@ -1,0 +1,7 @@
+#Tue Oct 18 09:52:59 GST 2016
+base.0=/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a1e7d1777a3867033d65e41eb15f179844b17735
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_63c9203aae9cc2b75e9415f54e151ba3da552161/classes.dex
+base.1=/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_63c9203aae9cc2b75e9415f54e151ba3da552161
+file.0=/Users/smartvision/Downloads/MS_Translator-Test-App--master/MS_Translator/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a1e7d1777a3867033d65e41eb15f179844b17735/classes.dex
